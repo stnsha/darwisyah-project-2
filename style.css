@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 9px;
+}
+
+header h1 {
+    font-size: 16px;
+}
+
+.discounts{
+    font-style: normal;
+}
+
+main h1{
+   color: rgb(150, 22, 150); 
+   text-align: center;
+     text-transform: uppercase;
+}
+
+footer {
+ background-color: pink;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+footer p{
+    background-color: white;
+    border: 2px solid pink;
+}
+
+
+nav{
+    margin:20px;
+    padding:10px;
+    
+}
+
+nav a{
+    padding: 15px;
+    font-size:20px;
+    text-decoration:none;
+    background-color: navy;
+    color: white;
+    border-radius: 10px;
+}
+
+.fireworks{
+    background-color: rgba(230, 115, 20, 0.925);
+    border-radius: 10px;
+    padding: 9px;
+    color:white;
+}
+
+#discount{
+    color:blue;
+}
+
+.offer{
+    font-size: 20px;
+}
+
+.and{
+    border:6px solid aquamarine ;
+}
+
+#delivery{
+    color: blue;
+}
+
+.button{
+    border:3px solid darkblue;
+    padding: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.design3{
+    color:blue;
+}
